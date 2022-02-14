@@ -1,0 +1,121 @@
+.navbar-nav{
+	margin-left: 400px;
+}
+
+.nav-link{
+	color: white;
+}
+.nav-link:hover{
+	color: black;
+}
+.start{
+	margin-top: 40px;
+}
+.customer{
+	margin-top: 10px;
+	margin-left: 280px;
+}
+.customer label{
+	color: white;
+	font-weight: 705;
+	font-size: 20px;
+}
+.customer input{
+	width: 560px;
+	border: none;
+}
+.customer button{
+	border: none;
+	color: white;
+	background-color: green;
+	width:30px;
+}
+.customer button:hover{
+	background-color: blue;
+}
+.Dt{
+	margin-top: 10px;
+	margin-left: 120px;
+}
+.Dt label{
+	color: white;
+	font-size: 20px;
+	font-weight: 705;
+}
+.Dt input{
+	border: none;
+}
+.sn{
+	margin-left: 320px;
+	margin-top: 8px;
+}
+.sn label{
+	color: white;
+	font-size: 20px;	
+	font-weight: 705;
+}
+.sn{
+	border: none;
+}
+.cs{
+	margin-top: 10px;
+	margin-left: 253px;	
+}
+.cs label{
+	color: white;
+	font-size: 20px;	
+	font-weight: 705;
+}
+#cs1 option{
+
+
+	background-color: green;
+}
+.cp{
+	margin-top: 10px;
+	margin-left: 225px;
+}
+.cp label{
+	color: white;
+	font-size: 20px;
+	font-weight: 705;
+}
+.cp input{
+	border: none;
+}
+.ct{
+	margin-left: 130px;
+	margin-top: 8px;	
+}
+.ct label{
+	color: white;
+	font-size: 20px;
+	font-weight: 705;	
+}
+.ct option{
+	background-color: green;
+	color: white;
+
+}
+.ct option:hover{
+	color: black;
+	background-color: red;
+}
+.sve{
+	margin-left: 600px;
+	margin-top: 20px;	
+}
+.sve button{
+	color: white;
+	background-color:#008000;
+	width: 80px;
+	height: 45px;
+	border: none;
+}
+.sve button:hover{
+	background-color: blue;
+}
+.logo{
+	margin-left: 1115px;
+	margin-top: 85px;
+}
